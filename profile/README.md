@@ -1,6 +1,6 @@
 # the nix company GmbH
 
-✉️ [the@nix.company](the@nix.company)
+✉️ [the@nix.company](mailto:the@nix.company)
 
 🏠 [https:/nix.company](https://nix.company)
 
